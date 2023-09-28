@@ -1,10 +1,9 @@
 # EasyRead
 The aim that was set out to develop the project has been achieved. The application is a 
 fully working result of the proposed model. It is able to recognize the text and 
-summarize the text as and when the user requests it. 
-From the test inputs that were tried out on the model, both the options worked as per 
-the specifications. The recognized text had a few issues. But the rest were working 
-well. The text-to-speech worked well and the summarizer worked too.
+summarize the text as and when the user requests it. The application is able to summarize the text that is recognized. And to 
+not limiting the application to just recognition and summarization, a text to speech 
+function is in place to read out the recognized/summarised text which works perfectly.
 There is a wide range of audience that this application would benefit. After a thorough 
 research into the customers that would be using this app, the following conclusion was 
 drawn upon. 
